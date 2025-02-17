@@ -1,8 +1,6 @@
 # 🎨 **AI Image Generator**  
 
-A **React.js** application that uses AI to generate images based on user-provided text descriptions. The app integrates with **Hugging Face’s Text-to-Image API** to generate unique images instantly.  
-
-![AI Image Generator Screenshot](#) *(Add a relevant screenshot here)*  
+A **React.js** application that uses AI to generate images based on user-provided text descriptions. The app integrates with **Hugging Face’s Text-to-Image API** to generate unique images instantly.   
 
 ---
 
@@ -49,7 +47,7 @@ AI-Image-Generator/
 
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/ai-image-generator.git
+git clone https://github.com/Tabish0101/ai-image-generator.git
 ```
 
 2️⃣ **Navigate to the project directory**  
@@ -67,7 +65,7 @@ npm install
 npm start
 ```
 
-The app will be available at **http://localhost:3000/**  
+The app will be available at **https://ai-image-generator-by-tabish.netlify.app/**  
 
 ---
 
@@ -81,27 +79,6 @@ The app will be available at **http://localhost:3000/**
 
 ---
 
-## 📌 **Screenshots**  
-
-| Feature      | Screenshot |
-|-------------|-----------|
-| **Input & Generate Button** | ![Input Box](#) |
-| **Loading Indicator** | ![Loading Bar](#) |
-| **Generated Image Preview** | ![Generated Image](#) |
-| **Download Button** | ![Download Option](#) |
-
-*(Replace `#` with actual image URLs or paths)*  
-
----
-
-## 📌 **Possible Improvements**  
-
-🔹 Enhance UI with animations and better styling.  
-🔹 Add different AI models for image generation.  
-🔹 Implement image history so users can view past creations.  
-🔹 Introduce filters and editing options for generated images.  
-
----
 
 ## 📜 **License**  
 
@@ -112,7 +89,7 @@ This project is open-source and available under the **MIT License**.
 ## 📞 **Contact**  
 
 💡 Developed by **Tabish Jeelani**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [github.com/your-username](https://github.com/your-username)  
+📧 Email: [tabishjeelani93@gmail.com](mailto:tabishjeelani93@gmail.com)  
+🔗 GitHub: [github.com/Tabish0101](https://github.com/Tabish0101)  
 
 ---
